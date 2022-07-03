@@ -1,2 +1,2 @@
 # GIS
-final project-GIS
+final GIS project
